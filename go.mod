@@ -1,4 +1,4 @@
-module github.com/dnsimple-caddy-module
+module github.com/mtlynch/dnsimple-caddy-module
 
 go 1.24
 
